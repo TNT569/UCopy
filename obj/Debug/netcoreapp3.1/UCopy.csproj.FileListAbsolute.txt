@@ -1,0 +1,13 @@
+D:\study\UCopy\bin\Debug\netcoreapp3.1\UCopy.exe
+D:\study\UCopy\bin\Debug\netcoreapp3.1\UCopy.deps.json
+D:\study\UCopy\bin\Debug\netcoreapp3.1\UCopy.runtimeconfig.json
+D:\study\UCopy\bin\Debug\netcoreapp3.1\UCopy.runtimeconfig.dev.json
+D:\study\UCopy\bin\Debug\netcoreapp3.1\UCopy.dll
+D:\study\UCopy\bin\Debug\netcoreapp3.1\UCopy.pdb
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.csprojAssemblyReference.cache
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.AssemblyInfoInputs.cache
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.AssemblyInfo.cs
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.csproj.CoreCompileInputs.cache
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.dll
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.pdb
+D:\study\UCopy\obj\Debug\netcoreapp3.1\UCopy.genruntimeconfig.cache
