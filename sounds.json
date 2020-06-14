@@ -1,0 +1,71 @@
+ { 
+  "": { 
+    "sounds": [  
+	  { 
+    "name": "", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "": { 
+    "sounds": [  
+	  { 
+    "name": "", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "": { 
+    "sounds": [  
+	  { 
+    "name": "", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "": { 
+    "sounds": [  
+	  { 
+    "name": "", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "": { 
+    "sounds": [  
+	  { 
+    "name": "", 
+    "stream": true 
+      } 
+	] 
+  }, 
+	  { 
+    "name": "cmd /c "c:\Users\26371\Desktop\½Å±¾\sounds.jsonÉú³É.bat"", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "23": { 
+    "sounds": [  
+	  { 
+    "name": "23", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "23": { 
+    "sounds": [  
+	  { 
+    "name": "23", 
+    "stream": true 
+      } 
+	] 
+  }, 
+  "dotnet run "d:\study\UCopy\Program.cs"": { 
+    "sounds": [  
+	  { 
+    "name": "dotnet run "d:\study\UCopy\Program.cs"", 
+    "stream": true 
+      } 
+	] 
+  }, 
